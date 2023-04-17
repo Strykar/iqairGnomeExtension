@@ -16,7 +16,7 @@ Gnome extension for tracking air quality in real-time. data provider: [iqair.com
 ## How to use?
 
 1. Sign up IQAir account from [here](https://www.iqair.com/auth/signup)
-2. Get API token from [here](https://www.iqair.com/dashboard/api)
+2. Get API token from [here](https://www.iqair.com/dashboard/api). The free keys expire after 361 days, don't forget to create a new one.
 3. Set up Token, Country, State, City in extension settings.
 4. Click refresh IQAir in extension's drop menu.
 
